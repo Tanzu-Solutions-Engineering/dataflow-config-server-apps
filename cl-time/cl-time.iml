@@ -76,11 +76,11 @@
     <orderEntry type="library" name="Maven: org.springframework.amqp:spring-amqp:1.6.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.rabbitmq:amqp-client:3.6.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.integration:spring-integration-amqp:4.3.7.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud.stream.app:spring-cloud-starter-stream-source-time:1.1.0.RC1" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud.stream.app:app-starters-annotation-common:1.1.0.RC1" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud.stream.app:app-starters-trigger-common:1.1.0.RC1" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud.stream.app:app-starters-trigger-one-common:1.1.0.RC1" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud.stream.app:app-starters-time-common:1.1.0.RC1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud.stream.app:spring-cloud-starter-stream-source-time:1.1.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud.stream.app:app-starters-annotation-common:1.1.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud.stream.app:app-starters-trigger-common:1.1.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud.stream.app:app-starters-trigger-one-common:1.1.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud.stream.app:app-starters-time-common:1.1.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.jayway.jsonpath:json-path:2.2.0" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.integration:spring-integration-xml:4.3.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-oxm:4.3.6.RELEASE" level="project" />
